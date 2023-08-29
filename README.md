@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Bhavesh Sonwani
 
-![I am a developer, researcher, and self-taught musician.](https://github.com/s10bhavesh/s10bhavesh.github.io/blob/15068cca9536e62c4002735882c6aaa2b4b2f932/images/Bhavesh_banner.png)
+![I am a developer, researcher, and self-taught musician.](images/Bhavesh_banner.png)
 
 #### I am a developer, researcher, and self-taught musician.
 
