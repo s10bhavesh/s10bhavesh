@@ -6,8 +6,18 @@
 
 My background has a diverse blend of Computer Science, Data Science & Artificial Intelligence, Cognitive Science, Physics, and Music. I enjoy acquiring new skills. I am open to collaborative projects in both coding and music. Why compete if you can collaborate? You can check out my [portfolio here](https://s10bhavesh.github.io "portfolio") and my [YouTube](https://www.youtube.com/@TheSonicBlues999 "youtube-channel") channel for my selected compositions and covers.
 
-## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Skills)
 
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Additional+Information)
+
+- 🔭 I’m currently working on 6G wireless communication systems as a Junior Research Fellow (JRF) at IIT Bhilai. 
+- 🌱 I’m currently learning GoLang, Rust, Flutter, Dart, Graphics Design, UX, Video Editing 
+- 👯 I’m looking to collaborate on Representational Learning, Software Development, and Guitar Jamming 
+- 💬 Ask me about Deep Learning, Python, Music Theory, Cooking, History 
+- 📫 How to reach me: bhaveshs@iitbhilai.ac.in 
+- 😄 Pronouns: he/him 
+
+
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Skills)
 
 ### **Programming Languages**
 <p align="center">
@@ -55,14 +65,6 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 
 - Probability & Statistics, Design of Experiments, Linear Algebra, Numerical Methods, Partial Differential Equations, Vector Calculus, Quantum Mechanics, Statistical Mechanics, Quantum Computation
 
-## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Additional+Information)
-
-- 🔭 I’m currently working on 6G wireless communication systems as a Junior Research Fellow (JRF) at IIT Bhilai. 
-- 🌱 I’m currently learning GoLang, Rust, Flutter, Dart, Graphics Design, UX, Video Editing 
-- 👯 I’m looking to collaborate on Representational Learning, Software Development, and Guitar Jamming 
-- 💬 Ask me about Deep Learning, Python, Music Theory, Cooking, History 
-- 📫 How to reach me: bhaveshs@iitbhilai.ac.in 
-- 😄 Pronouns: he/him 
 
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Links+to+)
 
