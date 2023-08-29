@@ -11,9 +11,9 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 
-
-- **Programming Languages**
-  [![My Skills](https://skillicons.dev/icons?i=py,matlab,c,cpp,r,powershell&perline=3)](https://skillicons.dev)
+**Programming Languages**
+  
+[![My Skills](https://skillicons.dev/icons?i=py,matlab,c,cpp,r,powershell&perline=15)](https://skillicons.dev)
 
   
 : Python, MatLab, C/C++, R, Shell Scripting, SQL, HTML/CSS, JavaScript, Java,
