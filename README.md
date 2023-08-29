@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is Bhavesh Sonwani
 #### I am a developer, researcher, and self-taught musician.
-![I am a developer, researcher, and self-taught musician.](https://github.com/s10bhavesh/s10bhavesh.github.io/blob/c9bf6fdd05563eda28ecc311bd10c517145339ac/images/Bhavesh_banner.png)
+![Banner](https://github.com/s10bhavesh/s10bhavesh.github.io/blob/c9bf6fdd05563eda28ecc311bd10c517145339ac/images/Bhavesh_banner.png)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=289DF7&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Bhavesh+Sonwani;I+am+a+developer%2C+researcher%2C+and+self-taught+musician.;Thanks+for+visiting+my+page)](https://git.io/typing-svg)
 
 I am Bhavesh Sonwani. I am a developer, researcher, and self-taught musician. My background has a diverse blend of Computer Science, Data Science & Artificial Intelligence, Cognitive Science, Physics, and Music. I enjoy acquiring new skills. I am open to collaborative projects in both coding and music. Why compete if you can collaborate? You can check out my [portfolio here](https://s10bhavesh.github.io "portfolio") and my [YouTube](https://www.youtube.com/@TheSonicBlues999 "youtube-channel") channel for my selected compositions and covers.
 
