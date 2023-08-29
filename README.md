@@ -10,9 +10,9 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 Skills: Python / C/C++ / MatLab / R / Shell Scripting / SQL / Inkscape / Docker / Blender / Wireshark / Audacity / GitHub / GIMP / JS / HTML / CSS
 
 - 🔭 I’m currently working on 6G wireless communication systems as a Junior Research Fellow (JRF) at IIT Bhilai. 
-- 🌱 I’m currently learning GoLang, Rust, Flutter, Dart, Graphics Design, UX, Video Editing 
-- 👯 I’m looking to collaborate on Representational Learning, Software Development, and Guitar Jamming 
-- 💬 Ask me about Deep Learning, Python, Music Theory, Cooking, History 
+- 🌱 I’m currently learning GoLang, Rust, Flutter, Dart, Graphics Design, UX, Video Editing.
+- 👯 I’m looking to collaborate on Representational Learning, Software Development, and Guitar Jamming.
+- 💬 Ask me about Deep Learning, Python, Music Theory, Cooking, History.
 - 📫 How to reach me: bhaveshs@iitbhilai.ac.in 
 - 😄 Pronouns: he/him 
 
