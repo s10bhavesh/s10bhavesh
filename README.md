@@ -7,7 +7,7 @@
 
 My background has a diverse blend of Computer Science, Data Science & Artificial Intelligence, Cognitive Science, Physics, and Music. I enjoy acquiring new skills. I am open to collaborative projects in both coding and music. Why compete if you can collaborate? You can check out my [portfolio here](https://s10bhavesh.github.io "portfolio") and my [YouTube](https://www.youtube.com/@TheSonicBlues999 "youtube-channel") channel for my selected compositions and covers.
 
-## Skills
+## **Skills**
 
 **Programming Languages**: Python, MatLab, C/C++, R, Shell Scripting, SQL, HTML/CSS, JavaScript, Java,
 Network Simulator ns-2, Lisp.
@@ -19,7 +19,7 @@ PyPhysim, Apache Spark MLlib, Hadoop
 Eye Tracker, PyGaze, MS Office, LATEX, LibreOffice, Blender, FL Studio, Audacity, GIMP, Linux (Debian), Raspberry
 Pi OS, Windows
 
-
+## **Additional information**
 
 - 🔭 I’m currently working on 6G wireless communication systems as a Junior Research Fellow (JRF) at IIT Bhilai. 
 - 🌱 I’m currently learning GoLang, Rust, Flutter, Dart, Graphics Design, UX, Video Editing 
