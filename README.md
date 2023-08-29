@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am Bhavesh Sonwani. I am a developer, researcher, and self-taught musician. I have a multi-disciplinary academic background in Computer Science, Artificial Intelligence, and Cognitive Science.
+
+
+
+
 <!--
 **s10bhavesh/s10bhavesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
