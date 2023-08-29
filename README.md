@@ -10,14 +10,14 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 
 
 **Programming Languages**
-[![My Skills](https://skillicons.dev/icons?i=py,matlab,c,cpp,r,bash,powershell,mysql,flutter,js,html,css&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,matlab,c,cpp,r,octave,fortran,bash,powershell,mysql,flutter,js,html,CSS,latex&perline=15)](https://skillicons.dev)
 
 **Libraries**
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,flask,fastapi&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,flask,fastapi,sqlite,qt&perline=15)](https://skillicons.dev)
 
 
 **Tools**
-[![My Skills](https://skillicons.dev/icons?i=docker,cmake,blender&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,github,git,githubactions,linux,nginx,cmake,StackOverflow,svg,blender,raspberrypi&perline=15)](https://skillicons.dev)
 
 
 blender
