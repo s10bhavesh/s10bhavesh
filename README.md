@@ -6,7 +6,7 @@
 
 My background has a diverse blend of Computer Science, Data Science & Artificial Intelligence, Cognitive Science, Physics, and Music. I enjoy acquiring new skills. I am open to collaborative projects in both coding and music. Why compete if you can collaborate? You can check out my [portfolio here](https://s10bhavesh.github.io "portfolio") and my [YouTube](https://www.youtube.com/@TheSonicBlues999 "youtube-channel") channel for my selected compositions and covers.
 
-## **Skills**
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Skills)](https://git.io/typing-svg)
 
 - **Programming Languages**: Python, MatLab, C/C++, R, Shell Scripting, SQL, HTML/CSS, JavaScript, Java,
 Network Simulator ns-2, Lisp.
