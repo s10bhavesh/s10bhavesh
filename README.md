@@ -24,8 +24,8 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
   </a>
 </p>
 
-Besides, 
-PyTorch Lightning, PyTorch Geometric, Keras, OpenCV, DLib, Requests, Sockets, JSON, Scapy, Scikit-learn, Pandas, OS, Matplotlib, Numpy, PyQt5, PySimpleGUI, Scipy, SymPy, Seaborn, PyPhysim, Apache Spark MLlib, Hadoop
+Besides
+- PyTorch Lightning, PyTorch Geometric, Keras, OpenCV, DLib, Requests, Sockets, JSON, Scapy, Scikit-learn, Pandas, OS, Matplotlib, Numpy, PyQt5, PySimpleGUI, Scipy, SymPy, Seaborn, PyPhysim, Apache Spark MLlib, Hadoop
 
 **Tools & Operating Systems**
 <p align="center">
@@ -34,8 +34,8 @@ PyTorch Lightning, PyTorch Geometric, Keras, OpenCV, DLib, Requests, Sockets, JS
   </a>
 </p>
 
-Besides,
-Inkscape, Wireshark, OpenSesame, Tobii Eye Tracker, PyGaze, MS Office, LibreOffice, FL Studio, Audacity, GIMP
+Besides
+- Inkscape, Wireshark, OpenSesame, Tobii Eye Tracker, PyGaze, MS Office, LibreOffice, FL Studio, Audacity, GIMP
 
 
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Additional+Information)
