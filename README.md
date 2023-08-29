@@ -1,4 +1,4 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Bhavesh+Sonwani;I+am+a+developer%2C+researcher%2C+and;a+self-taught+musician.)](https://git.io/typing-svg) 
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Bhavesh+Sonwani;I+am+a+developer%2C+researcher%2C+and;a+self-taught+musician.)](https://git.io/typing-svg) 
 
 
 ![Banner](https://github.com/s10bhavesh/s10bhavesh.github.io/blob/c9bf6fdd05563eda28ecc311bd10c517145339ac/images/Bhavesh_banner.png)
@@ -18,7 +18,7 @@ PyPhysim, Apache Spark MLlib, Hadoop
 Eye Tracker, PyGaze, MS Office, LATEX, LibreOffice, Blender, FL Studio, Audacity, GIMP, Linux (Debian), Raspberry
 Pi OS, Windows
 
-## **Additional information**
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Additional+Information)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on 6G wireless communication systems as a Junior Research Fellow (JRF) at IIT Bhilai. 
 - 🌱 I’m currently learning GoLang, Rust, Flutter, Dart, Graphics Design, UX, Video Editing 
