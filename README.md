@@ -23,6 +23,7 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,flask,fastapi,sqlite,qt&perline=15" />
   </a>
 </p>
+
 Besides, 
 PyTorch Lightning, PyTorch Geometric, Keras, OpenCV, DLib, Requests, Sockets, JSON, Scapy, Scikit-learn, Pandas, OS, Matplotlib, Numpy, PyQt5, PySimpleGUI, Scipy, SymPy, Seaborn, PyPhysim, Apache Spark MLlib, Hadoop
 
@@ -32,16 +33,10 @@ PyTorch Lightning, PyTorch Geometric, Keras, OpenCV, DLib, Requests, Sockets, JS
     <img src="https://skillicons.dev/icons?i=vscode,vim,docker,github,git,githubactions,linux,nginx,cmake,StackOverflow,svg,blender,raspberrypi&perline=15" />
   </a>
 </p>
+
 Besides,
-- Inkscape, Wireshark, OpenSesame, Tobii Eye Tracker, PyGaze, MS Office, LibreOffice, FL Studio, Audacity, GIMP
+Inkscape, Wireshark, OpenSesame, Tobii Eye Tracker, PyGaze, MS Office, LibreOffice, FL Studio, Audacity, GIMP
 
-
-Besides, 
-- PyTorch Lightning, PyTorch Geometric, Keras, OpenCV, DLib, Requests,Sockets, JSON, Scapy, Scikit-learn, Pandas, OS, Matplotlib, Numpy, PyQt5, PySimpleGUI, Scipy, SymPy, Seaborn, PyPhysim, Apache Spark MLlib, Hadoop
-- **Databases**: MySql, NoSQL, SQLAlchemy
-- **Tools & Operating Systems**: VS Code, Inkscape, GitHub, Wireshark, Docker, Linux Terminal, OpenSesame, Tobii
-Eye Tracker, PyGaze, MS Office, LATEX, LibreOffice, Blender, FL Studio, Audacity, GIMP, Linux (Debian), Raspberry
-Pi OS, Windows
 
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Additional+Information)
 
