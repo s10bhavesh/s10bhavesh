@@ -10,6 +10,11 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 
 
 **Programming Languages**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,matlab,c,cpp,r,octave,fortran,bash,powershell,mysql,flutter,js,html,CSS,latex&perline=15" />
+  </a>
+</p>
 [![My Skills](https://skillicons.dev/icons?i=py,matlab,c,cpp,r,octave,fortran,bash,powershell,mysql,flutter,js,html,CSS,latex&perline=15)](https://skillicons.dev)
 
 **Libraries**
@@ -20,7 +25,7 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 [![My Skills](https://skillicons.dev/icons?i=vscode,vim,docker,github,git,githubactions,linux,nginx,cmake,StackOverflow,svg,blender,raspberrypi&perline=15)](https://skillicons.dev)
 
 
-blender
+Besides, 
 -  PyTorch, PyTorch Lightning, PyTorch Geometric, TensorFlow, Keras, OpenCV, DLib, Flask, Requests,
 Sockets, JSON, Scapy, Scikit-learn, Pandas, OS, Matplotlib, Numpy, PyQt5, PySimpleGUI, Scipy, SymPy, Seaborn,
 PyPhysim, Apache Spark MLlib, Hadoop
