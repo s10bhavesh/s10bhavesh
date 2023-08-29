@@ -13,7 +13,7 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 
 **Programming Languages**
   
-[![My Skills](https://skillicons.dev/icons?i=py,matlab,c,cpp,r,powershell,mysql,js,html,css,   &perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,matlab,c,cpp,r,powershell,mysql,js,html,css&perline=15)](https://skillicons.dev)
 
   
 : Python, MatLab, C/C++, R, Shell Scripting, SQL, HTML/CSS, JavaScript, Java,
