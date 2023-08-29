@@ -9,13 +9,13 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 
 ## **Skills**
 
-**Programming Languages**: Python, MatLab, C/C++, R, Shell Scripting, SQL, HTML/CSS, JavaScript, Java,
+- **Programming Languages**: Python, MatLab, C/C++, R, Shell Scripting, SQL, HTML/CSS, JavaScript, Java,
 Network Simulator ns-2, Lisp.
-**Libraries**: PyTorch, PyTorch Lightning, PyTorch Geometric, TensorFlow, Keras, OpenCV, DLib, Flask, Requests,
+- **Libraries**: PyTorch, PyTorch Lightning, PyTorch Geometric, TensorFlow, Keras, OpenCV, DLib, Flask, Requests,
 Sockets, JSON, Scapy, Scikit-learn, Pandas, OS, Matplotlib, Numpy, PyQt5, PySimpleGUI, Scipy, SymPy, Seaborn,
 PyPhysim, Apache Spark MLlib, Hadoop
-**Databases**: MySql, NoSQL, SQLAlchemy
-**Tools & Operating Systems**: VS Code, Inkscape, GitHub, Wireshark, Docker, Linux Terminal, OpenSesame, Tobii
+- **Databases**: MySql, NoSQL, SQLAlchemy
+- **Tools & Operating Systems**: VS Code, Inkscape, GitHub, Wireshark, Docker, Linux Terminal, OpenSesame, Tobii
 Eye Tracker, PyGaze, MS Office, LATEX, LibreOffice, Blender, FL Studio, Audacity, GIMP, Linux (Debian), Raspberry
 Pi OS, Windows
 
