@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Bhavesh Sonwani. I am a developer, researcher, and self-taught musician. My background has a diverse blend of Computer Science, Data Science & Artificial Intelligence, Cognitive Science, Physics, and Music. I enjoy aquiring new skills. I am open to collaborative projects in both coding and music.
+I am Bhavesh Sonwani. I am a developer, researcher, and self-taught musician. My background has a diverse blend of Computer Science, Data Science & Artificial Intelligence, Cognitive Science, Physics, and Music. I enjoy acquiring new skills. I am open to collaborative projects in both coding and music. Why compete if you can collaborate? You can check out my [YouTube](https://www.youtube.com/@TheSonicBlues999 "link title") channel for my selected compositions and covers.
 
 I am a Junior Research Fellow (JRF) at IIT Bhilai on 6G wireless communication systems.
 
