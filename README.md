@@ -13,12 +13,15 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 
 **Programming Languages**
   
-[![My Skills](https://skillicons.dev/icons?i=py,matlab,c,cpp,r,powershell&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,matlab,c,cpp,r,powershell,MySQL,&perline=15)](https://skillicons.dev)
 
   
 : Python, MatLab, C/C++, R, Shell Scripting, SQL, HTML/CSS, JavaScript, Java,
 Network Simulator ns-2, Lisp.
-- **Libraries**: PyTorch, PyTorch Lightning, PyTorch Geometric, TensorFlow, Keras, OpenCV, DLib, Flask, Requests,
+
+**Libraries**
+
+-  PyTorch, PyTorch Lightning, PyTorch Geometric, TensorFlow, Keras, OpenCV, DLib, Flask, Requests,
 Sockets, JSON, Scapy, Scikit-learn, Pandas, OS, Matplotlib, Numpy, PyQt5, PySimpleGUI, Scipy, SymPy, Seaborn,
 PyPhysim, Apache Spark MLlib, Hadoop
 - **Databases**: MySql, NoSQL, SQLAlchemy
