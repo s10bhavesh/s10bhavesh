@@ -8,13 +8,13 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Skills)
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-
 
 **Programming Languages**
-[![My Skills](https://skillicons.dev/icons?i=py,matlab,c,cpp,r,powershell,mysql,js,html,css&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,matlab,c,cpp,r,bash,powershell,mysql,js,html,css&perline=15)](https://skillicons.dev)
 
 **Libraries**
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,&perline=15)](https://skillicons.dev)
+
 
 -  PyTorch, PyTorch Lightning, PyTorch Geometric, TensorFlow, Keras, OpenCV, DLib, Flask, Requests,
 Sockets, JSON, Scapy, Scikit-learn, Pandas, OS, Matplotlib, Numpy, PyQt5, PySimpleGUI, Scipy, SymPy, Seaborn,
