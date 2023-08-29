@@ -19,3 +19,15 @@ Skills: Python / C/C++ / MatLab / R / Shell Scripting / SQL / Inkscape / Docker 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/s10bhavesh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/bhavesh-sonwani-85415015//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@TheSonicBlues999)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://s10bhavesh.github.io)  
 
+
+
+const { Contributions } = require('contributions')
+
+const contributions = await Contributions.forUser('ethomson');
+const days = contributions.getDays();
+
+for (let day of days) {
+    console.log(`${day.getDate()}: ${day.getIntensity()}`);
+}
+
+
