@@ -37,6 +37,23 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 #### Besides
 - Inkscape, Wireshark, OpenSesame, Tobii Eye Tracker, PyGaze, MS Office, LibreOffice, FL Studio, Audacity, GIMP
 
+### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Selected+Coursework)
+
+**Data Science & AI:** 
+
+- Machine Learning, Data Mining, Deep Learning Applications, Computer Vision, Predictive Analysis, Big Data, Numerical Methods, Soft Computing, Artificial Intelligence, Image Processing, Pattern Recognition, Nature Inspired Computing, Natural Languages Processing
+
+**Computer Science:** 
+
+- Data Structures & Algorithms, Design & Analysis of Algorithms, Database Management Systems, Operating Systems, Computer Networks, Software Engineering, Automata Theory, Cryptography
+
+**Cognitive Science:** 
+
+- Neuroscience, Cognitive Psychology, Neurodesign, Evolutionary Neuropsychology, Experimental Techniques in Cognitive Science, Research Methods
+
+**Mathematics & Physics:** 
+
+- Probability & Statistics, Design of Experiments, Linear Algebra, Numerical Methods, Partial Differential Equations, Vector Calculus, Quantum Mechanics, Statistical Mechanics, Quantum Computation
 
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Additional+Information)
 
