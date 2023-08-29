@@ -39,7 +39,7 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 
 ### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Selected+Coursework)
 
-**Data Science & AI:** 
+**Data Science & Artificial Intelligence:** 
 
 - Machine Learning, Data Mining, Deep Learning Applications, Computer Vision, Predictive Analysis, Big Data, Numerical Methods, Soft Computing, Artificial Intelligence, Image Processing, Pattern Recognition, Nature Inspired Computing, Natural Languages Processing
 
