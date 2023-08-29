@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I am Bhavesh Sonwani. I am a developer, researcher, and self-taught musician. I have a multi-disciplinary academic background in Computer Science, Artificial Intelligence, and Cognitive Science.
+I am Bhavesh Sonwani. I am a developer, researcher, and self-taught musician. My background has a diverse blend of Computer Science, Data Science & Artificial Intelligence, Cognitive Science, Physics, and Music. I enjoy aquiring new skills. I am open to collaborative projects in both coding and music.
+
+I am a Junior Research Fellow (JRF) at IIT Bhilai on 6G wireless communication systems.
+
+
 
 
 
