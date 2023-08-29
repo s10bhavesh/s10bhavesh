@@ -23,3 +23,7 @@ Skills: Python / C/C++ / MatLab / R / Shell Scripting / SQL / Inkscape / Docker 
 
 
 
+
+
+
+
