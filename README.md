@@ -27,6 +27,11 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 
 
 **Tools**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,vim,docker,github,git,githubactions,linux,nginx,cmake,StackOverflow,svg,blender,raspberrypi&perline=15" />
+  </a>
+</p>
 [![My Skills](https://skillicons.dev/icons?i=vscode,vim,docker,github,git,githubactions,linux,nginx,cmake,StackOverflow,svg,blender,raspberrypi&perline=15)](https://skillicons.dev)
 
 
