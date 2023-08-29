@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Bhavesh Sonwani
 #### I am a developer, researcher, and self-taught musician.
-![I am a developer, researcher, and self-taught musician.](https://github.com/s10bhavesh/s10bhavesh.github.io/blob/15068cca9536e62c4002735882c6aaa2b4b2f932/images/Bhavesh_banner.png)
+![I am a developer, researcher, and self-taught musician.](https://github.com/s10bhavesh/s10bhavesh.github.io/blob/c9bf6fdd05563eda28ecc311bd10c517145339ac/images/Bhavesh_banner.png)
 
 I am Bhavesh Sonwani. I am a developer, researcher, and self-taught musician. My background has a diverse blend of Computer Science, Data Science & Artificial Intelligence, Cognitive Science, Physics, and Music. I enjoy acquiring new skills. I am open to collaborative projects in both coding and music. Why compete if you can collaborate? You can check out my [portfolio here](https://s10bhavesh.github.io "portfolio") and my [YouTube](https://www.youtube.com/@TheSonicBlues999 "youtube-channel") channel for my selected compositions and covers.
 
