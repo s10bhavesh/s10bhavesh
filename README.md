@@ -17,7 +17,7 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 
 
 **Tools**
-[![My Skills](https://skillicons.dev/icons?i=blende,&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=blender&perline=15)](https://skillicons.dev)
 
 
 blender
