@@ -9,7 +9,7 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Skills)
 
 
-**Programming Languages**
+### **Programming Languages**
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,matlab,c,cpp,r,octave,fortran,bash,powershell,mysql,flutter,js,html,css,latex&perline=15" />
@@ -17,7 +17,7 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 </p>
 
 
-**Libraries**
+### **Libraries**
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,flask,fastapi,sqlite,qt&perline=15" />
@@ -27,7 +27,7 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 Besides
 - PyTorch Lightning, PyTorch Geometric, Keras, OpenCV, DLib, Requests, Sockets, JSON, Scapy, Scikit-learn, Pandas, OS, Matplotlib, Numpy, PyQt5, PySimpleGUI, Scipy, SymPy, Seaborn, PyPhysim, Apache Spark MLlib, Hadoop
 
-**Tools & Operating Systems**
+### **Tools & Operating Systems**
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,vim,docker,github,git,githubactions,linux,nginx,cmake,stackoverflow,svg,blender,raspberrypi&perline=15" />
