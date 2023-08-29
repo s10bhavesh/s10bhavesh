@@ -6,11 +6,17 @@
 
 My background has a diverse blend of Computer Science, Data Science & Artificial Intelligence, Cognitive Science, Physics, and Music. I enjoy acquiring new skills. I am open to collaborative projects in both coding and music. Why compete if you can collaborate? You can check out my [portfolio here](https://s10bhavesh.github.io "portfolio") and my [YouTube](https://www.youtube.com/@TheSonicBlues999 "youtube-channel") channel for my selected compositions and covers.
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Skills)]
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Skills)
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
-- **Programming Languages**: Python, MatLab, C/C++, R, Shell Scripting, SQL, HTML/CSS, JavaScript, Java,
+
+
+- **Programming Languages**
+  [![My Skills](https://skillicons.dev/icons?i=py,matlab,c,cpp,r,powershell&perline=3)](https://skillicons.dev)
+
+  
+: Python, MatLab, C/C++, R, Shell Scripting, SQL, HTML/CSS, JavaScript, Java,
 Network Simulator ns-2, Lisp.
 - **Libraries**: PyTorch, PyTorch Lightning, PyTorch Geometric, TensorFlow, Keras, OpenCV, DLib, Flask, Requests,
 Sockets, JSON, Scapy, Scikit-learn, Pandas, OS, Matplotlib, Numpy, PyQt5, PySimpleGUI, Scipy, SymPy, Seaborn,
@@ -20,7 +26,7 @@ PyPhysim, Apache Spark MLlib, Hadoop
 Eye Tracker, PyGaze, MS Office, LATEX, LibreOffice, Blender, FL Studio, Audacity, GIMP, Linux (Debian), Raspberry
 Pi OS, Windows
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Additional+Information)]
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Additional+Information)
 
 - 🔭 I’m currently working on 6G wireless communication systems as a Junior Research Fellow (JRF) at IIT Bhilai. 
 - 🌱 I’m currently learning GoLang, Rust, Flutter, Dart, Graphics Design, UX, Video Editing 
