@@ -13,9 +13,14 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 [![My Skills](https://skillicons.dev/icons?i=py,matlab,c,cpp,r,bash,powershell,mysql,js,html,css&perline=15)](https://skillicons.dev)
 
 **Libraries**
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,flask,&perline=15)](https://skillicons.dev)
 
 
+**Tools**
+[![My Skills](https://skillicons.dev/icons?i=blende,&perline=15)](https://skillicons.dev)
+
+
+blender
 -  PyTorch, PyTorch Lightning, PyTorch Geometric, TensorFlow, Keras, OpenCV, DLib, Flask, Requests,
 Sockets, JSON, Scapy, Scikit-learn, Pandas, OS, Matplotlib, Numpy, PyQt5, PySimpleGUI, Scipy, SymPy, Seaborn,
 PyPhysim, Apache Spark MLlib, Hadoop
