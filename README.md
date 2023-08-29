@@ -30,7 +30,7 @@ PyTorch Lightning, PyTorch Geometric, Keras, OpenCV, DLib, Requests, Sockets, JS
 **Tools & Operating Systems**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,vim,docker,github,git,githubactions,linux,nginx,cmake,StackOverflow,svg,blender,raspberrypi&perline=15" />
+    <img src="https://skillicons.dev/icons?i=vscode,vim,docker,github,git,githubactions,linux,nginx,cmake,stackoverflow,svg,blender,raspberrypi&perline=15" />
   </a>
 </p>
 
