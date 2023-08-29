@@ -21,13 +21,5 @@ Skills: Python / C/C++ / MatLab / R / Shell Scripting / SQL / Inkscape / Docker 
 
 
 
-const { Contributions } = require('contributions')
-
-const contributions = await Contributions.forUser('ethomson');
-const days = contributions.getDays();
-
-for (let day of days) {
-    console.log(`${day.getDate()}: ${day.getIntensity()}`);
-}
 
 
