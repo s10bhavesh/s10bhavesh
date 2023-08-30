@@ -67,6 +67,8 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 
 <a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/tf.png" alt="" height="40" width="40" /></a>  
 
+<a href="#" target="blank"><img align="center" src="" alt="" height="50" width="50" /></a>
+
 - PyTorch Lightning, PyTorch Geometric, Keras, OpenCV, DLib, Requests, Sockets, JSON, Scapy, Scikit-learn, Pandas, OS, Matplotlib, Numpy, PyQt5, PySimpleGUI, Scipy, SymPy, Seaborn, PyPhysim, Apache Spark MLlib, Hadoop
 -->
 
@@ -77,9 +79,17 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
     <img src="https://skillicons.dev/icons?i=vscode,vim,docker,github,git,githubactions,linux,nginx,cmake,stackoverflow,svg,blender,raspberrypi&perline=7" />
   </a>
 </p>
+<p align="center">
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/gimp.png" alt="" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/flstudio.jpeg" alt="" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/audacity.png" alt="" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/wireshark.png" alt="" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/inkscape.png" alt="" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/msoffice.png" alt="" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/opensesame.png" alt="" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/libreoffice.png" alt="" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/tobii.png" alt="" height="50" width="50" /></a>
 
-#### Besides
-<a href="#" target="blank"><img align="center" src="" alt="" height="50" width="50" /></a>
 - Inkscape, Wireshark, OpenSesame, Tobii Eye Tracker, PyGaze, MS Office, LibreOffice, FL Studio, Audacity, GIMP
 
 ### ![Selected Coursework](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Selected+Coursework)
