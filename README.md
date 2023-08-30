@@ -69,6 +69,8 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 
 <a href="#" target="blank"><img align="center" src="" alt="" height="50" width="50" /></a>
 
+- Inkscape, Wireshark, OpenSesame, Tobii Eye Tracker, PyGaze, MS Office, LibreOffice, FL Studio, Audacity, GIMP
+
 - PyTorch Lightning, PyTorch Geometric, Keras, OpenCV, DLib, Requests, Sockets, JSON, Scapy, Scikit-learn, Pandas, OS, Matplotlib, Numpy, PyQt5, PySimpleGUI, Scipy, SymPy, Seaborn, PyPhysim, Apache Spark MLlib, Hadoop
 -->
 
@@ -90,7 +92,6 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 <a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/libreoffice.png" alt="" height="50" width="50" /></a>
 <a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/tobii.png" alt="" height="50" width="50" /></a>
 
-- Inkscape, Wireshark, OpenSesame, Tobii Eye Tracker, PyGaze, MS Office, LibreOffice, FL Studio, Audacity, GIMP
 
 ### ![Selected Coursework](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Selected+Coursework)
 
