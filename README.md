@@ -113,7 +113,7 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 
 
 ## Language Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/s10bhavesh?tab=repositories)
 
 
 ## [![🔗 Connect with me](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Connect+with+me)](https://git.io/typing-svg)
