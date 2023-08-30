@@ -1,4 +1,4 @@
-## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Bhavesh+Sonwani;I+am+a+developer%2C+researcher%2C+and;a+self-taught+musician.)
+## ![Hi there 👋, I'm Bhavesh Sonwani I am a developer, researcher, and a self-taught musician.](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Bhavesh+Sonwani;I+am+a+developer%2C+researcher%2C+and;a+self-taught+musician.)
 
 
 ![Banner](https://github.com/s10bhavesh/s10bhavesh.github.io/blob/3d2f62428555bb52a1ecbca1b831992e647ae977/images/bhavesh-banner-w-pic.png)
