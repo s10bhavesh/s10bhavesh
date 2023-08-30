@@ -111,10 +111,10 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 
 - Probability & Statistics, Design of Experiments, Linear Algebra, Numerical Methods, Partial Differential Equations, Vector Calculus, Quantum Mechanics, Statistical Mechanics, Quantum Computation
 
-
+<!--
 ## Language Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s10bhavesh&layout=donut-vertical)](https://github.com/s10bhavesh/github-readme-stats)
-
+-->
 
 ## [![🔗 Connect with me](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Connect+with+me)](https://git.io/typing-svg)
 <p align="left">
