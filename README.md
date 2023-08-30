@@ -71,9 +71,9 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 
 <a href="https://www.linkedin.com/in/bhavesh-sonwani-85415015/" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/8585ddae42f1e266ab02786f3feb2aa424fde6a4/icons/linkedin.png" alt="bhavesh-linkedin" height="30" width="40" /></a>
 
-<a href="https://dev.to/gautamkrishnar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://s10bhavesh.github.io/" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/8585ddae42f1e266ab02786f3feb2aa424fde6a4/icons/portfolio.png" alt="bhavesh-portfolio" height="30" width="40" /></a>
 
-<a href="https://dev.to/gautamkrishnar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@TheSonicBlues999" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/8585ddae42f1e266ab02786f3feb2aa424fde6a4/icons/yt-full.png" alt="bhavesh-youtube" height="30" width="40" /></a>
 
 
 
