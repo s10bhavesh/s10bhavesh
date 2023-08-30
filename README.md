@@ -76,15 +76,20 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 ### **Tools & Operating Systems**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,vim,docker,github,git,githubactions,linux,nginx,cmake,stackoverflow,svg,blender,raspberrypi&perline=7" />
+    <img src="https://skillicons.dev/icons?i=vscode,vim,docker,github,git,githubactions&perline=7" />
   </a>
 </p>
 <p align="center">
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/gimp.png" alt="" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/flstudio.jpeg" alt="" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/audacity.png" alt="" height="50" width="50" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,nginx,cmake,stackoverflow,svg,blender,raspberrypi&perline=7" />
+  </a>
+</p>
+<p align="center">
 <a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/wireshark.png" alt="" height="50" width="50" /></a>
 <a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/inkscape.png" alt="" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/gimp.png" alt="" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/audacity.png" alt="" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/flstudio.jpeg" alt="" height="50" width="50" /></a>
 <a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/msoffice.png" alt="" height="50" width="50" /></a>
 <a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/opensesame.png" alt="" height="50" width="50" /></a>
 <a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/libreoffice.png" alt="" height="50" width="50" /></a>
