@@ -1,7 +1,7 @@
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Bhavesh+Sonwani;I+am+a+developer%2C+researcher%2C+and;a+self-taught+musician.)
 
 
-![Banner(https://github.com/s10bhavesh/s10bhavesh.github.io/blob/3d2f62428555bb52a1ecbca1b831992e647ae977/images/bhavesh-banner-w-pic.png)
+![Banner](https://github.com/s10bhavesh/s10bhavesh.github.io/blob/3d2f62428555bb52a1ecbca1b831992e647ae977/images/bhavesh-banner-w-pic.png)
 
 
 My background has a diverse blend of Computer Science, Data Science & Artificial Intelligence, Cognitive Science, Physics, and Music. I enjoy acquiring new skills. I am open to collaborative projects in both coding and music. Why compete if you can collaborate? You can check out my [portfolio](https://s10bhavesh.github.io "portfolio") and my [YouTube](https://www.youtube.com/@TheSonicBlues999 "youtube-channel") channel for my selected projects with codes and music compositions respectively.
