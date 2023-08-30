@@ -7,7 +7,7 @@
 My background has a diverse blend of Computer Science, Data Science & Artificial Intelligence, Cognitive Science, Physics, and Music. I enjoy acquiring new skills. I am open to collaborative projects in both coding and music. Why compete if you can collaborate? You can check out my [portfolio](https://s10bhavesh.github.io "portfolio") and my [YouTube](https://www.youtube.com/@TheSonicBlues999 "youtube-channel") channel for my selected projects with codes and music compositions respectively.
 
 
-## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Additional+Information)
+## ![Additional Information](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Additional+Information)
 
 - 🔭 I’m currently working on 6G wireless communication systems as a Junior Research Fellow (JRF) at IIT Bhilai. 
 - 🌱 I’m currently learning GoLang, Rust, Flutter, Dart, Graphics Design, UX, Video Editing 
@@ -17,7 +17,7 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 - 😄 Pronouns: he/him 
 
 
-## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Skills)
+## ![Skills](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Skills)
 
 ### **Programming Languages**
 <p align="center">
@@ -47,7 +47,7 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 #### Besides
 - Inkscape, Wireshark, OpenSesame, Tobii Eye Tracker, PyGaze, MS Office, LibreOffice, FL Studio, Audacity, GIMP
 
-### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Selected+Coursework)
+### ![Selected Coursework](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Selected+Coursework)
 
 **Data Science & Artificial Intelligence:** 
 
@@ -66,7 +66,7 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 - Probability & Statistics, Design of Experiments, Linear Algebra, Numerical Methods, Partial Differential Equations, Vector Calculus, Quantum Mechanics, Statistical Mechanics, Quantum Computation
 
 
-## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Links+to+)
+## ![Links to](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Links+to+)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/s10bhavesh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/bhavesh-sonwani-85415015//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@TheSonicBlues999)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://s10bhavesh.github.io)  
 
