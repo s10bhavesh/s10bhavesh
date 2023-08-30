@@ -67,12 +67,9 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 
 
 ## [![🔗 Connect with me](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Connect+with+me)](https://git.io/typing-svg)
-<p align="center">
-
+<p align="left">
 <a href="https://www.linkedin.com/in/bhavesh-sonwani-85415015/" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/8585ddae42f1e266ab02786f3feb2aa424fde6a4/icons/linkedin.png" alt="bhavesh-linkedin" height="30" width="40" /></a>
-
 <a href="https://s10bhavesh.github.io/" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/8585ddae42f1e266ab02786f3feb2aa424fde6a4/icons/portfolio.png" alt="bhavesh-portfolio" height="30" width="40" /></a>
-
 <a href="https://www.youtube.com/@TheSonicBlues999" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/8585ddae42f1e266ab02786f3feb2aa424fde6a4/icons/yt-full.png" alt="bhavesh-youtube" height="30" width="40" /></a>
 
 
