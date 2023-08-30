@@ -34,12 +34,12 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
   </a>
 </p>
 <p align="center">
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/pl.png" alt="pytorch-lightning" height="40" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/pyg.png" alt="" height="40" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/opencv.png" alt="" height="40" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/np2.png" alt="" height="40" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/keras.png" alt="" height="40" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/dlib.png" alt="" height="40" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/pl.png" alt="pytorch-lightning" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/pyg.png" alt="" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/opencv.png" alt="" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/np2.png" alt="" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/keras.png" alt="" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/dlib.png" alt="" height="50" width="50" /></a>
 
 
 <p align="center">
