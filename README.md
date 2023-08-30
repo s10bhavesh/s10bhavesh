@@ -22,7 +22,7 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 ### **Programming Languages**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,matlab,c,cpp,r,octave,fortran,bash,powershell,mysql,flutter,js,html,css,latex&perline=7" />
+    <img src="https://skillicons.dev/icons?i=py,matlab,c,cpp,r,octave,fortran,bash,powershell,mysql,flutter,js,html,css,latex&perline=5" />
   </a>
 </p>
 
