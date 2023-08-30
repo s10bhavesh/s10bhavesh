@@ -112,6 +112,10 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 - Probability & Statistics, Design of Experiments, Linear Algebra, Numerical Methods, Partial Differential Equations, Vector Calculus, Quantum Mechanics, Statistical Mechanics, Quantum Computation
 
 
+## Language Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## [![🔗 Connect with me](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Connect+with+me)](https://git.io/typing-svg)
 <p align="left">
 <a href="https://www.linkedin.com/in/bhavesh-sonwani-85415015/" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/8585ddae42f1e266ab02786f3feb2aa424fde6a4/icons/linkedin.png" alt="bhavesh-linkedin" height="30" width="40" /></a>
