@@ -22,7 +22,7 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 ### **Programming Languages**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,matlab,c,cpp,r,octave,fortran,bash,powershell,mysql,flutter,js,html,css,latex&perline=15" />
+    <img src="https://skillicons.dev/icons?i=py,matlab,c,cpp,r,octave,fortran,bash,powershell,mysql,flutter,js,html,css,latex&perline=7" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 ### **Libraries**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,flask,fastapi,sqlite,qt&perline=15" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,flask,fastapi,sqlite,qt&perline=7" />
   </a>
 </p>
 
@@ -40,7 +40,7 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 ### **Tools & Operating Systems**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,vim,docker,github,git,githubactions,linux,nginx,cmake,stackoverflow,svg,blender,raspberrypi&perline=15" />
+    <img src="https://skillicons.dev/icons?i=vscode,vim,docker,github,git,githubactions,linux,nginx,cmake,stackoverflow,svg,blender,raspberrypi&perline=7" />
   </a>
 </p>
 
