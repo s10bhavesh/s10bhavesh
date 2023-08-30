@@ -37,8 +37,17 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 #### Besides
 <p align="center">
 <a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/pl.png" alt="pytorch-lightning" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/8585ddae42f1e266ab02786f3feb2aa424fde6a4/icons/portfolio.png" alt="bhavesh-portfolio" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/8585ddae42f1e266ab02786f3feb2aa424fde6a4/icons/yt-full.png" alt="bhavesh-youtube" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/pyg.png" alt="" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="" alt="" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="" alt="" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="" alt="" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="" alt="" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="" alt="" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="" alt="" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="" alt="" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="" alt="" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="" alt="" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="" alt="" height="30" width="40" /></a>
 
 - PyTorch Lightning, PyTorch Geometric, Keras, OpenCV, DLib, Requests, Sockets, JSON, Scapy, Scikit-learn, Pandas, OS, Matplotlib, Numpy, PyQt5, PySimpleGUI, Scipy, SymPy, Seaborn, PyPhysim, Apache Spark MLlib, Hadoop
 
