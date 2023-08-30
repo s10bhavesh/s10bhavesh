@@ -84,7 +84,6 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
     <img src="https://skillicons.dev/icons?i=linux,nginx,cmake,stackoverflow,svg,blender,raspberrypi&perline=7" />
   </a>
 </p>
-https://github.com/s10bhavesh/s10bhavesh.github.io/blob/c4d191fe65b8f1ec09df00a99e70721f52866d94/icons/spss.jpg
 <p align="center">
 <a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/c4d191fe65b8f1ec09df00a99e70721f52866d94/icons/spss.jpg" alt="" height="50" width="50" /></a>
 <a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/wireshark.png" alt="" height="50" width="50" /></a>
