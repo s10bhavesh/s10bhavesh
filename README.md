@@ -84,16 +84,22 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
     <img src="https://skillicons.dev/icons?i=linux,nginx,cmake,stackoverflow,svg,blender,raspberrypi&perline=7" />
   </a>
 </p>
+https://github.com/s10bhavesh/s10bhavesh.github.io/blob/c4d191fe65b8f1ec09df00a99e70721f52866d94/icons/spss.jpg
 <p align="center">
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/c4d191fe65b8f1ec09df00a99e70721f52866d94/icons/spss.jpg" alt="" height="50" width="50" /></a>
 <a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/wireshark.png" alt="" height="50" width="50" /></a>
 <a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/inkscape.png" alt="" height="50" width="50" /></a>
 <a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/gimp.png" alt="" height="50" width="50" /></a>
 <a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/audacity.png" alt="" height="50" width="50" /></a>
 <a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/flstudio.jpeg" alt="" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/msoffice.png" alt="" height="50" width="50" /></a>
+
+
+<p align="center">
 <a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/opensesame.png" alt="" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/libreoffice.png" alt="" height="50" width="50" /></a>
 <a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/tobii.png" alt="" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/libreoffice.png" alt="" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/msoffice.png" alt="" height="50" width="50" /></a>
+
 
 
 ### ![Selected Coursework](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Selected+Coursework)
@@ -122,7 +128,7 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 ## [![🔗 Connect with me](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Connect+with+me)](https://git.io/typing-svg)
 <p align="left">
 <a href="https://www.linkedin.com/in/bhavesh-sonwani-85415015/" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/8585ddae42f1e266ab02786f3feb2aa424fde6a4/icons/linkedin.png" alt="bhavesh-linkedin" height="30" width="40" /></a>
-<a href="https://s10bhavesh.github.io/" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/8585ddae42f1e266ab02786f3feb2aa424fde6a4/icons/portfolio.png" alt="bhavesh-portfolio" height="30" width="40" /></a>
+<a href="https://s10bhavesh.github.io/" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/c4d191fe65b8f1ec09df00a99e70721f52866d94/icons/portfolio_w.png" alt="bhavesh-portfolio" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@TheSonicBlues999" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/8585ddae42f1e266ab02786f3feb2aa424fde6a4/icons/yt-full.png" alt="bhavesh-youtube" height="30" width="40" /></a>
 
 
