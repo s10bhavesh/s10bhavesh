@@ -78,5 +78,5 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/s10bhavesh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/bhavesh-sonwani-85415015//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@TheSonicBlues999)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://s10bhavesh.github.io)  
 -->
 
-![Alt Text](https://github.com/s10bhavesh/s10bhavesh.github.io/blob/c9bf6fdd05563eda28ecc311bd10c517145339ac/images/dino.gif )
+![DINO](https://github.com/s10bhavesh/s10bhavesh.github.io/blob/c9bf6fdd05563eda28ecc311bd10c517145339ac/images/dino.gif )
 
