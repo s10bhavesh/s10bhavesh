@@ -86,19 +86,19 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
   </a>
 </p>
 <p align="center">
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/c4d191fe65b8f1ec09df00a99e70721f52866d94/icons/spss.jpg" alt="" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/wireshark.png" alt="" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/inkscape.png" alt="" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/gimp.png" alt="" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/audacity.png" alt="" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/flstudio.jpeg" alt="" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/c4d191fe65b8f1ec09df00a99e70721f52866d94/icons/spss.jpg" alt="IBM SPSS" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/wireshark.png" alt="Wireshark" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/inkscape.png" alt="Inkscape" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/gimp.png" alt="GIMP" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/audacity.png" alt="Audacity" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/flstudio.jpeg" alt="FL Studio" height="50" width="50" /></a>
 
 
 <p align="center">
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/opensesame.png" alt="" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/tobii.png" alt="" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/libreoffice.png" alt="" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/msoffice.png" alt="" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/opensesame.png" alt="OpenSesame" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/tobii.png" alt="Tobii Eye Tracker" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/libreoffice.png" alt="LibreOffice" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/msoffice.png" alt="Microsoft Office" height="50" width="50" /></a>
 
 
 
