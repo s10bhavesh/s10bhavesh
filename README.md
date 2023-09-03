@@ -34,8 +34,8 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
   </a>
 </p>
 <p align="center">
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/pl.png" alt="pytorch-lightning" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/pyg.png" alt="pytorch-geometric" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/pl.png" alt="PyTorch Lightning" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/pyg.png" alt="PyTorch Geometric" height="50" width="50" /></a>
 <a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/opencv.png" alt="OpenCV" height="50" width="50" /></a>
 <a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/np2.png" alt="NumPy" height="50" width="50" /></a>
 <a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/keras.png" alt="Keras" height="50" width="50" /></a>
@@ -43,20 +43,21 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 
 
 <p align="center">
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2b37e9fbd03a1d68e1e3713cea2874a211f26ecf/icons/matplotlib2.png" alt="matplotlib" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/seaborn.svg" alt="seaborn" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/pandas.png" alt="pandas" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/json.png" alt="json" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/py_requests.png" alt="python-requests.png" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/py_requests.png" alt="" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2b37e9fbd03a1d68e1e3713cea2874a211f26ecf/icons/matplotlib2.png" alt="Matplotlib" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/seaborn.svg" alt="Seaborn" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/pandas.png" alt="Pandas" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/sympy.png" alt="Sympy" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/scipy.png" alt="Scipy" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/scapy.png" alt="Scapy" height="50" width="50" /></a>
+
+
 
 <p align="center">
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/sympy.png" alt="" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/scipy.png" alt="" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/scapy.png" alt="" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/pysimplegui.png" alt="" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/apache_spark.png" alt="" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/hadoop.png" alt="" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/json.png" alt="JSON" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/py_requests.png" alt="Requests" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/pysimplegui.png" alt="PySimpleGUI" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/apache_spark.png" alt="Apache Spark" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/hadoop.png" alt="Apache Hadoop" height="50" width="50" /></a>
 <!-- <p align="center"> -->
 
 
