@@ -95,7 +95,7 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 
 
 <p align="center">
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/opensesame.png" alt="OpenSesame" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/b1a550b2f5bfed8fe36092bcb60985651b0e6028/icons/opensesame.png" alt="OpenSesame" height="50" width="50" /></a>
 <a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/tobii.png" alt="Tobii Eye Tracker" height="50" width="50" /></a>
 <a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/libreoffice.png" alt="LibreOffice" height="50" width="50" /></a>
 <a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2fb89791f2f1859656cfbf9f224addbf388f64fa/icons/msoffice.png" alt="Microsoft Office" height="50" width="50" /></a>
