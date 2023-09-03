@@ -43,11 +43,11 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 
 
 <p align="center">
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2b37e9fbd03a1d68e1e3713cea2874a211f26ecf/icons/matplotlib2.png" alt="" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/seaborn.svg" alt="" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/pandas.png" alt="" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/json.png" alt="" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/py_requests.png" alt="" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/2b37e9fbd03a1d68e1e3713cea2874a211f26ecf/icons/matplotlib2.png" alt="matplotlib" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/seaborn.svg" alt="seaborn" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/pandas.png" alt="pandas" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/json.png" alt="json" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/py_requests.png" alt="python-requests.png" height="50" width="50" /></a>
 <a href="#" target="blank"><img align="center" src="https://github.com/s10bhavesh/s10bhavesh.github.io/blob/7c79113742f9bddce2eca0cf247fa921c683cacf/icons/py_requests.png" alt="" height="50" width="50" /></a>
 
 <p align="center">
