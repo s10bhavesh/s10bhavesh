@@ -102,7 +102,7 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 
 
 
-### ![Selected Coursework](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Selected+Coursework)
+## ![Selected Coursework](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Selected+Coursework)
 
 **Data Science & Artificial Intelligence:** 
 
