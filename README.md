@@ -9,8 +9,8 @@ My background has a diverse blend of Computer Science, Data Science & Artificial
 
 ## ![Additional Information](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Additional+Information)
 
-- 🔭 I’m currently working on 6G wireless communication systems as a Junior Research Fellow (JRF) at IIT Bhilai. 
-- 🌱 I’m currently learning GoLang, Rust, Flutter, Dart, Graphics Design, UX, Video Editing 
+- 🔭 I’m working on 6G wireless communication systems as a Junior Research Fellow (JRF) at IIT Bhilai. 
+- 🌱 I’m currently learning GoLang, Rust, Flutter, Dart, Graphics Design, UX, and Video Editing 
 - 👯 I’m looking to collaborate on Representational Learning, Software Development, and Guitar Jamming 
 - 💬 Ask me about Deep Learning, Python, Music Theory, Cooking, History 
 - 📫 How to reach me: bhaveshs@iitbhilai.ac.in 
